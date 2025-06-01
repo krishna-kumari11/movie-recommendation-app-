@@ -1,3 +1,5 @@
+// Added comment for testing git commit
+
 const movies = {
   action: ["Mad Max: Fury Road", "John Wick", "The Dark Knight"],
   romance: ["La La Land", "Titanic", "The Notebook"],
